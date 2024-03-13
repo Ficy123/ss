@@ -158,7 +158,7 @@
   {
     "number": 27,
     "question": "PowerPoint中，下列说法中错误的是（ ）",
-    "options": ["A 可以动态显示文本和对象", "B 可以更改400: {'code': 10305, 'detail': 'OpenAI network timeout, please retry'}动画对象的出现顺序", "C 图表中的元素不可以设置动画效果", "D 可以设置幻灯片切换效果"],
+    "options": ["A 可以动态显示文本和对象", "B 可以更改动画对象的出现顺序", "C 图表中的元素不可以设置动画效果", "D 可以设置幻灯片切换效果"],
     "answer": "C 图表中的元素不可以设置动画效果"
   },
   {
@@ -527,18 +527,18 @@
     "options": ["A Enter", "B Alt", "C Shift", "D Ctrl"],
     "answer": "C Shift"
   },
-{
+  {
     "number": 89,
     "question": "VLOOKUP的第3个参数是( )",
-    "options": ["A 查找值", "B 查找范围", "C 查找列数","D 匹配",
+    "options": ["A 查找值", "B 查找范围", "C 查找列数","D 匹配"],
     "answer": "C 查找列数"
-},
-{
+  },
+  {
     "number": 90,
     "question": "（ ）是特殊的指令，在域中可引发特定的操作。",
     "options": ["A 域名", "B 域参数", "C 域代码", "D 域开关"],
     "answer": "D 域开关"
-},
+  },
   {
     "number": 91,
     "question": "VLOOKUP的第1个参数的含义是( )",
